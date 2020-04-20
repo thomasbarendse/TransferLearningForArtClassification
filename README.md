@@ -1,7 +1,7 @@
 # TransferLearningForArtClassification
 Reproduction of the paper by Sabatelli et al on transfer learning for art classification
 
-The iPython notebook walks you through the transfer learning procedure. 
+The iPython notebook walks you through the transfer learning procedure. Open in Google Colab to run. 
 
 The two .py files are used to structure the Rijksmuseum dataset according to its metadata. The structured datasets can also be found on Kaggle: 
 
